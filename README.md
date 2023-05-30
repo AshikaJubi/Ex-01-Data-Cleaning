@@ -41,27 +41,27 @@ df.isnull().sum()
 # OUPUT
 
 
-![GITHUB](E1.PNG)
+![GITHUB](E1.png)
 
-![GITHUB](E2.PNG)
+![GITHUB](E2.png)
 
-![GITHUB](E3.PNG)
-
-df.head()
-
-![GITHUB](E4.PNG)
+![GITHUB](E3.png)
 
 df.head()
-![GITHUB](E5.PNG)
+
+![GITHUB](E4.png)
+
+df.head()
+![GITHUB](E5.png)
 
 
 df.info()
 
-![GITHUB](E6.PNG)
+![GITHUB](E6.png)
 
 df.isnull().sum()
 
-![GITHUB](E7.PNG)
+![GITHUB](E7.png)
 
 ## RESULT:
 
